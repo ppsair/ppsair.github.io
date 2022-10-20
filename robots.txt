@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ppsa.ir
+
+# Sitemaps
+Sitemap: https://ppsa.ir/sitemap.xml
